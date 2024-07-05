@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
 
-{% include base_path %}
 
-[Download my CV here](http://academicpages.github.io/files/cv.pdf)
+paperurl: http://academicpages.github.io/files/cv.pdf
