@@ -10,4 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-[download CV here](http://carmonadiaz.github.io/files/cv.pdf)
+[Download CV here](/files/cv.pdf)
+
+
+
+[Download CV here](https://drive.google.com/file/d/1lBekH2Zta36OnnXjqPWF9qEeCR3YRLKx/view?usp=sharing)
