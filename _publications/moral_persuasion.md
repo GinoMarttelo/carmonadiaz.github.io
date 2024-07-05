@@ -6,12 +6,10 @@ excerpt: 'This study analyses the impact of argument quality and source expertis
 date: 2021-10-01
 venue: 'Acta Colombiana de Psicología'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Carmona Díaz, G. M., Villada Zapata, J., Piñeres, J. D., & Jiménez Leal, W. (2021). &quot;Persuasión moral en el marco del posconflicto en Colombia: un estudio sobre la calidad de los argumentos y la experticia de la fuente.&quot <i>Acta Colombiana de Psicología, 24</i>(2), 144-155.'
+citation: 'Carmona Díaz, G. M., Villada Zapata, J., Piñeres, J. D., & Jiménez Leal, W. (2021). Persuasión moral en el marco del posconflicto en Colombia: un estudio sobre la calidad de los argumentos y la experticia de la fuente. <i>Acta Colombiana de Psicología, 24</i>(2), 144-155.'
 
 ---
 
 This study analyses the impact of argument quality and source expertise on moral persuasion, as well as the change of a moral judgment as a function of a persuasive message. Research on the effects of argument quality and source expertise on moral persuasion is scarce, although the theories of Social Intuitionism, Dual Process and Moral Convictions suggest some hints in this regard. To study the impact of these factors on moral persuasion, an experimental study was carried out with a 2 (source expertise) x 2 (argument quality) factorial design with 433 participants. A particularly sensitive moral dilemma was designed to contrast the moral foundations of Harm-Care and Justice-Reciprocity in the context of the post-conflict in Colombia to evaluate moral judgment and potential change of judgment. The results show that although most of the participants presented resistance to persuasion, both the quality of the argument and the expertise of the source facilitated persuasion, albeit independently. Results also suggest several reflections on both dual process theories of persuasion and theories of moral judgement.
 
 [Download paper here](http://www.scielo.org.co/scielo.php?pid=S0123-91552021000200144&script=sci_arttext)
-
-Recomended citation: Carmona Díaz, G. M., Villada Zapata, J., Piñeres, J. D., & Jiménez Leal, W. (2021). &quot;Persuasión moral en el marco del posconflicto en Colombia: un estudio sobre la calidad de los argumentos y la experticia de la fuente.&quot <i>Acta Colombiana de Psicología, 24</i>(2), 144-155.
