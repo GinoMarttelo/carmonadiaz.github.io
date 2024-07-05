@@ -6,7 +6,7 @@ excerpt: 'Loyalty is considered central to people’s moral life, yet little is 
 .'
 date: 2024-05-01
 venue: 'Journal of Experimental Psychology: General'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://carmonadiaz.github.io/files/paper3.pdf'
 citation: 'Murray, S., Carmona, G., Vega, L., Jiménez-Leal, W., & Amaya, S. (2023). Loyalty from a personal point of view: A cross-cultural prototype study of loyalty.'
 
 ---

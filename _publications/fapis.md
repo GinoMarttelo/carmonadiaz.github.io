@@ -5,7 +5,7 @@ permalink: /publication/fapis
 excerpt: 'Intimacy is an interpersonal repertoire related to physical and behavioral health indicators. Functional analytic psychotherapy (FAP) is a behavioral intervention that has demonstrated utility in improving intimacy repertoires, particularly in experimental single-case designs. The FAP Intimacy Scale (FAPIS) was developed with the aim of using a theoretically sound measure to evaluate FAP effects on a large scale. This study sought to culturally adapt and validate the FAPIS for Spanish-speaking populations. A total sample of 509 Spanish-speaking participants completed the survey. Exploratory and confirmatory factor analyses were conducted to examine FAPIS psychometric properties. A network analysis was also performed to assess the relation among scale factors.  As expected, the FAPIS Spanish version demonstrated a good fit, meeting the same three-factor structure as the original version. Network loading along three factors was also found, and item 3 was identified as the most central item in the scale. Low and negative correlations among FAPIS, experiential avoidance, emotional sensitivity, and social impact were found. Findings showed that FAPIS is a valid and reliable measure for assessing intimacy in Spanish-speaking populations.'
 date: 2024-03-01
 venue: 'The Psychological Record'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://carmonadiaz.github.io/files/paper2.pdf'
 citation: 'Muñoz-Martínez, A. M., Márquez-Barraquer, V., Jiménez-Leal, W., Carmona-Díaz, G. M., & Acuña-Rojas, D. (2024). Assessing the Psychometric Properties of the Functional Analytic Psychotherapy Intimacy Scale (FAPIS) in a Spanish-Speaking Population. The Psychological Record, 1-11.'
 
 ---
