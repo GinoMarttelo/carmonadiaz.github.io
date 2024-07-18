@@ -6,12 +6,11 @@ excerpt: 'Loyalty is considered central to people’s moral life, yet little is 
 .'
 date: 2024-05-01
 venue: 'Journal of Experimental Psychology: General'
-paperurl: 'http://carmonadiaz.github.io/files/paper3.pdf'
+#paperurl: 'http://carmonadiaz.github.io/files/paper3.pdf'
 citation: 'Murray, S., Carmona, G., Vega, L., Jiménez-Leal, W., & Amaya, S. (2023). Loyalty from a personal point of view: A cross-cultural prototype study of loyalty.'
 
 ---
 
 Loyalty is considered central to people’s moral life, yet little is known about how people think about what it means to be loyal. We used a prototype approach to understand how loyalty is represented in Colombia and the United States and how these representations mediate attributions of loyalty and moral judgments of loyalty violations. Across 7 studies (N = 1,984), we found cross-cultural similarities in the associative meaning of loyalty (Study 1) but found differences in the centrality of features associated with loyalty (Study 2) and the latent structure of loyalty representations (Study 3). Colombians represent loyalty in terms of more general moral characteristics, while US participants represent loyalty in terms of interpersonal commitment, both in contrast with current approaches to loyalty. By comparing representations of loyalty and honesty, we establish that difference in loyalty conceptualizations reflect a different way of thinking about loyalty rather than morality more generally (Study 4). Further, Colombians attributed greater loyalty to individuals with general moral characteristics compared to participants from the United States sample (Study 5) and were more likely to classify non-loyal values as loyalty-related (Study 6). While the centrality of prototypical features predicts categorizing norm violations as loyalty-related, differences in prototypical structure account for differences in the severity of moral judgment for such violations (Study 7), which suggests that loyalty representations have similar functions even though these representations differ in structural characteristics.
 
-
-[Download paper here](https://philpapers.org/rec/MURLFA-5)
+[Download paper here](https://philpapers.org/rec/MURLFA-5){:target="_blank"}
