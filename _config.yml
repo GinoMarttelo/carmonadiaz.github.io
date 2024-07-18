@@ -1,3 +1,31 @@
+Skip to content
+Navigation Menu
+GinoMarttelo
+/
+carmonadiaz.github.io
+
+Type / to search
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Commit
+ultimos
+ master
+@GinoMarttelo
+GinoMarttelo committed 6 minutes ago 
+1 parent a7867a3
+commit 35c8adf
+ 
+Showing 3 changed files with 3 additions and 3 deletions.
+Filter changed files
+  2 changes: 1 addition & 1 deletion2  
+_config.yml
+Original file line number	Diff line number	Diff line change
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -5,7 +33,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Gino's Homepage"
@@ -15,7 +42,6 @@ description              : &description "PhDc in Psychology"
 url                      : https://ginomarttelo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/carmonadiaz.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -29,12 +55,21 @@ author:
   employer         : "Universidad Externado de Colombia"
   uri              : # URL
   email            : "mailto:g.carmona@uniandes.edu.co?subject=Collaboration&body=Hey%20Gino.%20%0A%0AI'm%20ready%20to%20work%20with%20you!"
-
   # Academic websites
-googlescholar: '<a href="https://scholar.google.es/citations?user=fzyBK8YAAAAJ&hl=es&oi=sra" target="_blank">Google Scholar Profile</a>'
-orcid: '<a href="https://orcid.org/0000-0003-2621-2557" target="_blank">ORCID Profile</a>'
-github: '<a href="https://github.com/GinoMarttelo" target="_blank">GitHub Profile</a>'
-   
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : '<a href="https://scholar.google.es/citations?user=fzyBK8YAAAAJ&hl=es&oi=sra" target="_blank">Google Scholar Profile</a>'
+  impactstory      : # URL
+  orcid            : <a href="https://orcid.org/0000-0003-2621-2557" target="_blank</a></li>  
+  semantic         : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : <a href="https://github.com/GinoMarttelo" target="_blank</a></li>  
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   #bluesky          : # Replace this with you Bluesky username
@@ -61,8 +96,6 @@ github: '<a href="https://github.com/GinoMarttelo" target="_blank">GitHub Profil
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-
-
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -99,15 +132,11 @@ staticman:
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
-
-
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
-
 # Social Sharing
 twitter:
   username               : &twitter
@@ -122,15 +151,11 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
-
 # Analytics
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
-
-
 # Reading Files
 include:
   - .htaccess
@@ -165,16 +190,12 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
-
 # Markdown Processing
 kramdown:
   input: GFM
@@ -185,8 +206,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-
 # Collections
 collections:
   teaching:
@@ -201,8 +220,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
-
 # Defaults
 defaults:
   # _posts
@@ -258,21 +275,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-
 # Plugins
 plugins:
   - jekyll-paginate
@@ -287,8 +298,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
-
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -316,11 +325,52 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
+  2 changes: 1 addition & 1 deletion2  
+_pages/publications.md
+Original file line number	Diff line number	Diff line change
+@@ -7,7 +7,7 @@ author_profile: true
+
+{% if site.author.googlescholar %}
+
+<div class="wordwrap">You can also find my articles on <a href="https://scholar.google.es/citations?user=fzyBK8YAAAAJ&hl=es&oi=sra"target="_blank">my Google Scholar profile</a>.</div>  
+<div class="wordwrap">You can also find my articles on <a href="https://scholar.google.es/citations?user=fzyBK8YAAAAJ&hl=es&oi=sra" target="_blank">my Google Scholar profile</a>.</div>  
+{% endif %}
+{% include base_path %}
+
+  2 changes: 1 addition & 1 deletion2  
+_publications/moral_persuasion.md
+Original file line number	Diff line number	Diff line change
+@@ -5,7 +5,7 @@ permalink: /publication/moral_persuasion
+excerpt: 'This study analyses the impact of argument quality and source expertise on moral persuasion, as well as the change of a moral judgment as a function of a persuasive message. Research on the effects of argument quality and source expertise on moral persuasion is scarce, although the theories of Social Intuitionism, Dual Process and Moral Convictions suggest some hints in this regard. To study the impact of these factors on moral persuasion, an experimental study was carried out with a 2 (source expertise) x 2 (argument quality) factorial design with 433 participants. A particularly sensitive moral dilemma was designed to contrast the moral foundations of Harm-Care and Justice-Reciprocity in the context of the post-conflict in Colombia to evaluate moral judgment and potential change of judgment. The results show that although most of the participants presented resistance to persuasion, both the quality of the argument and the expertise of the source facilitated persuasion, albeit independently. Results also suggest several reflections on both dual process theories of persuasion and theories of moral judgement.'
+date: 2021-10-01
+venue: 'Acta Colombiana de Psicología'
+paperurl: 'http://carmonadiaz.github.io/files/paper1.pdf'
+#paperurl: 'http://carmonadiaz.github.io/files/paper1.pdf'
+citation: 'Carmona Díaz, G. M., Villada Zapata, J., Piñeres, J. D., & Jiménez Leal, W. (2021). Persuasión moral en el marco del posconflicto en Colombia: un estudio sobre la calidad de los argumentos y la experticia de la fuente. <i>Acta Colombiana de Psicología, 24</i>(2), 144-155.'
+
+---
+0 comments on commit 35c8adf
+@GinoMarttelo
+Comment
+ 
+Leave a comment
+ 
+ You’re not receiving notifications from this thread.
+Footer
+© 2024 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+ultimos · GinoMarttelo/carmonadiaz.github.io@35c8adf 
