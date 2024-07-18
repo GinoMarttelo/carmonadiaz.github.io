@@ -104,11 +104,14 @@ staticman:
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+
+
 # Social Sharing
 twitter:
   username               : &twitter
@@ -123,11 +126,15 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+
+
 # Analytics
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
+
+
 # Reading Files
 include:
   - .htaccess
@@ -162,12 +169,16 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
+
 # Markdown Processing
 kramdown:
   input: GFM
@@ -178,6 +189,8 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+
+
 # Collections
 collections:
   teaching:
@@ -192,6 +205,8 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+
+
 # Defaults
 defaults:
   # _posts
@@ -247,15 +262,21 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
 # Plugins
 plugins:
   - jekyll-paginate
@@ -270,6 +291,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+
+
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -297,52 +320,11 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
+
+
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
-  2 changes: 1 addition & 1 deletion2  
-_pages/publications.md
-Original file line number	Diff line number	Diff line change
-@@ -7,7 +7,7 @@ author_profile: true
-
-{% if site.author.googlescholar %}
-
-<div class="wordwrap">You can also find my articles on <a href="https://scholar.google.es/citations?user=fzyBK8YAAAAJ&hl=es&oi=sra"target="_blank">my Google Scholar profile</a>.</div>  
-<div class="wordwrap">You can also find my articles on <a href="https://scholar.google.es/citations?user=fzyBK8YAAAAJ&hl=es&oi=sra" target="_blank">my Google Scholar profile</a>.</div>  
-{% endif %}
-{% include base_path %}
-
-  2 changes: 1 addition & 1 deletion2  
-_publications/moral_persuasion.md
-Original file line number	Diff line number	Diff line change
-@@ -5,7 +5,7 @@ permalink: /publication/moral_persuasion
-excerpt: 'This study analyses the impact of argument quality and source expertise on moral persuasion, as well as the change of a moral judgment as a function of a persuasive message. Research on the effects of argument quality and source expertise on moral persuasion is scarce, although the theories of Social Intuitionism, Dual Process and Moral Convictions suggest some hints in this regard. To study the impact of these factors on moral persuasion, an experimental study was carried out with a 2 (source expertise) x 2 (argument quality) factorial design with 433 participants. A particularly sensitive moral dilemma was designed to contrast the moral foundations of Harm-Care and Justice-Reciprocity in the context of the post-conflict in Colombia to evaluate moral judgment and potential change of judgment. The results show that although most of the participants presented resistance to persuasion, both the quality of the argument and the expertise of the source facilitated persuasion, albeit independently. Results also suggest several reflections on both dual process theories of persuasion and theories of moral judgement.'
-date: 2021-10-01
-venue: 'Acta Colombiana de Psicología'
-paperurl: 'http://carmonadiaz.github.io/files/paper1.pdf'
-#paperurl: 'http://carmonadiaz.github.io/files/paper1.pdf'
-citation: 'Carmona Díaz, G. M., Villada Zapata, J., Piñeres, J. D., & Jiménez Leal, W. (2021). Persuasión moral en el marco del posconflicto en Colombia: un estudio sobre la calidad de los argumentos y la experticia de la fuente. <i>Acta Colombiana de Psicología, 24</i>(2), 144-155.'
-
----
-0 comments on commit 35c8adf
-@GinoMarttelo
-Comment
- 
-Leave a comment
- 
- You’re not receiving notifications from this thread.
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
-ultimos · GinoMarttelo/carmonadiaz.github.io@35c8adf 
