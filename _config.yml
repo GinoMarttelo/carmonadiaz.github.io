@@ -29,9 +29,9 @@ author:
   email            : "mailto:g.carmona@uniandes.edu.co?subject=Collaboration&body=Hey%20Gino.%20%0A%0AI'm%20ready%20to%20work%20with%20you!"
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.es/citations?user=fzyBK8YAAAAJ&hl=es&oi=sra"{:target="_blank"}
+  googlescholar    : "https://scholar.google.es/citations?user=fzyBK8YAAAAJ&hl=es&oi=sra"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-2621-2557"{:target="_blank"}
+  orcid            : "https://orcid.org/0000-0003-2621-2557"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -39,7 +39,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/GinoMarttelo"{:target="_blank"}
+  github           : "https://github.com/GinoMarttelo"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
