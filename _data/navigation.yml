@@ -9,6 +9,9 @@ main:
   
   - title: "Current Projects"
     url: /current_projects/  
+      
+  - title: "Media"
+    url: /media/  
 
 # Uncomment the lines below to add more links:
 #  - title: "Talks"

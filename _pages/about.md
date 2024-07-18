@@ -1,9 +1,13 @@
 ---
 permalink: /
-title: "I’m interested in the lights and shadows of human cognition"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Human beings are neither rational nor irrational. We are not angels, but we are not demons either. We have virtues and vices, skills and limitations, qualities and flaws. No one is completely good or bad, either morally or cognitively. Everyone is an amalgamation of good and bad traits. This shouldn't be disappointing. Rather, it makes us the most fascinating beings on Earth. Follow me to study how people make decisions, revealing the best and the worst of themselves.
+I am a psychologist currently finishing my doctorate in Psychology at Universidad de los Andes, while working as a research assistant on the Self-Control in Context project at the Externado University of Colombia.
+
+My areas of specialization include Behavioral Sciences, Moral Psychology, Polarization, Misinformation, Environmental Psychology, and Self-Control.
+
+My current research focuses on the moralization process, folk conceptions of the good life, folk conceptions of addiction, social evaluation judgments, and the relationship between socioeconomic status and self-control.
