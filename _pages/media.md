@@ -22,3 +22,4 @@ author_profile: true
 
 **[Bienestar](https://cienciassociales.uniandes.edu.co/imprenta/){:target="_blank"}**. Imprenta (4ta edición) Reflexiones en torno al Bienestar en Colombia. Gómez, Y., Carrillo, S., Ingram, G. & Carmona-Díaz, G. (2024).
 
+**[¿Por qué procrastinamos?: el placer efímero y el dolor postergado](https://www.elespectador.com/salud/por-que-procrastinamos-el-placer-efimero-y-el-dolor-postergado/´){:target="_blank"}**. El Espectador. Juan Diego Quiceno (2023). (Partipation as consulted expert).
