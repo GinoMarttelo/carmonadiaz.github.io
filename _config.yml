@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gino's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "PhDc in Psychology"
+description              : &description "Ph.D. in Psychology | Behavioral Scientist | AI & LLM Research"
 url                      : https://ginomarttelo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/carmonadiaz.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,9 +22,9 @@ author:
   avatar           : "https://avatars.githubusercontent.com/u/85708522?v=4"
   name             : "Gino M. Carmona-Díaz"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D.c in Psychology"
-  location         : "Medellín"
-  employer         : "Universidad Externado de Colombia"
+  bio              : "Ph.D. in Psychology · Behavioral Scientist · AI/LLM Researcher"
+  location         : "Medellín, Colombia"
+  employer         : "Independent Researcher & Behavioral Science Consultant"
   uri              : # URL
   email            : "mailto:g.carmona@uniandes.edu.co?subject=Collaboration&body=Hey%20Gino.%20%0A%0AI'm%20ready%20to%20work%20with%20you!"
   # Academic websites
@@ -53,7 +53,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/gino-marttelo/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
